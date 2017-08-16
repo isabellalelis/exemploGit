@@ -2,3 +2,4 @@ colar
 bolsa
 relogio
 brinco
+anel
