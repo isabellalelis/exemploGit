@@ -2,4 +2,5 @@ colar
 bolsa
 relogio
 brinco
+anel
 anel dedao
